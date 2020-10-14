@@ -1,0 +1,9 @@
+{
+	"name" : "Lar das Meninas",
+	"latitude": 46257653 ,
+	"longitude": 875874567456,
+	"about":"Sobre o Orfanato",
+	"instructions":"Venha visitar",
+	"opening_hours":"Das 8h as 16h",
+	"open_on_weekends":true
+}
